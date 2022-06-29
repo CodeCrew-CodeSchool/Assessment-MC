@@ -21,3 +21,14 @@
  - Store an estimated amount per day (as a number).
  - Calculate how many you would eat total for the rest of your life.
  - Output the result to the screen like so: "You will need NN to last you until the ripe old age of X".
+
+
+
+# Color Flipper
+- Navigate to the color flipper folder and use the provides html, css and javascript files
+- Create a color flipper site like the following:
+
+https://ashuydv.github.io/color-picker/
+
+The concepts you will need to use are a button with event handler, arrays, variables, and functions!
+NOTE: you can use hex values or regular color values (I.E red, green, yellow, blue, etc). Stretch goal is to include BOTH regular and hex color values!
