@@ -24,6 +24,43 @@
 
 
 
+# Exercises: Arrays 
+
+## 1.
+
+  ```let myAlphabet = ['A', 'B', 'C', 'D','E','F', 'G'];```
+
+  
+
+ - What is the length of the array?
+
+ - Write a function called ```myAlphabetLength``` which console.logs the length of the array
+
+ - Within the function also use an ```if```-conditional statement that checks if the number of items within the array are less than 4
+
+ 
+
+## 2.
+
+ - Declare a function ```checkFunc``` that takes a string and a boolean as parameters
+
+ - Call the function using 2 arguments
+
+## 3.
+
+ - Declare and initialize an array called ```Planets``` with 5 string values
+
+ - ```console.log``` each item in the array
+
+ - Also console.log the index in each iteration
+
+## 4.
+ - Declare and initialize an array called
+
+ ```wowDatatypes```
+
+The array must have 5 different data types (NOT objects)
+
 # Color Flipper
 - Navigate to the color flipper folder and use the provides html, css and javascript files
 - Create a color flipper site like the following:
